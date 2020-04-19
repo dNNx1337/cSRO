@@ -1,1 +1,26 @@
 
+{
+	'sp': 0,
+	'server': '',
+	'hp_max': 0,
+	'current_exp': 0,
+	'level': 0,
+	'x': 0.0,
+	'dead': False,
+	'account_id': 0,
+	'locale': 22,
+	'job_max_exp': 0,
+	'job_current_exp': 0,
+	'job_name': '',
+	'player_id': 0,
+	'model': 0,
+	'mp': 0,
+	'gold': 0,
+	'guild': '',
+	'name': '',
+	'y': 0.0,
+	'hp': 0,
+	'mp_max': 0,
+	'max_exp': 0,
+	'region': 23431
+}
